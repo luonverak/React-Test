@@ -1,0 +1,19 @@
+@import url('spacing-page.css');
+.header-page{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.page-name{
+    width: 30%;
+    height: 100%;
+}
+.page-menu{
+    width: 60%;
+    height: 100%;
+}
+.search-botton{
+    width: 10%;
+    height: 100%;
+}

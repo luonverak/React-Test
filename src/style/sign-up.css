@@ -1,0 +1,18 @@
+@import url('spacing-page.css');
+@import url('color-page.css');
+.sign-up{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign-up button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid var(--blue);
+    background-color: transparent;
+    color: var(--blue);
+    font-size: 16px;
+}

@@ -1,0 +1,9 @@
+@import url('spacing-page.css');
+.option-page{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
